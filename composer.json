@@ -1,0 +1,21 @@
+{
+    "name": "zwping/composer_test",
+    "description": "test",
+    "type": "library",
+    "require": {
+        "php": ">=8"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Zwping\\ComposerTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "zwping",
+            "email": "1101558280@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
